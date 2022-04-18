@@ -1,0 +1,5 @@
+.vscode/
+*.pptx
+*.config
+*.zip
+.DS_Store
